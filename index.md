@@ -39,7 +39,7 @@ apt update && apt upgrade <br>
 git clone https://github.com/trhacknonimous/Dork-Finder.git <br>
 cd Dork-Finder<br>
 pip install -r requirements.txt<br>
-<a href="https://github.com/trhacknonimous/Dork-Finder">référentiel TRHACKNONscript</a><br> <br>
+<a href="https://github.com/trhacknonimous/Dork-Finder">référentiel Dork-Finder</a><br> <br>
 python2 dorks-Finder.py <br>
 
 	<body><div><style>
