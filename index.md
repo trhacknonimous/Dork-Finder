@@ -33,8 +33,8 @@ animation-iteration-count: infinite;
 100% {transform:rotateY(360deg)}
 }
 </style></center>
-<a href="https://trhacknonimous.github.io/Dork-Finder/README.html">README</a>
-<font text-align=left>
+<font style="text-align: left;"> 
+README détaillé :<a href="https://trhacknonimous.github.io/Dork-Finder/README.html"> HERE</a>
 INSTALLATION-------------> <br>
 apt update && apt upgrade <br>
 git clone https://github.com/trhacknonimous/Dork-Finder.git <br>
